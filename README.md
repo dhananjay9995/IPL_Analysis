@@ -36,7 +36,7 @@ These datasets have been cleaned and pre-processed using SQL and Python to ensur
 ## Setup
 1. Clone the repository or download the dataset from Kaggle.
 2. Import the datasets into a PostgreSQL database or any SQL-based system.
-3. Execute the SQL queries provided in the `queries.sql` file to generate insights.
+3. Execute the SQL queries provided in the `Matches.sql` and `Deliveries.sql*` file to generate insights.
 4. Optional: Use Python (Pandas, Matplotlib, Seaborn) to visualize the results.
 
 ## Insights
@@ -49,7 +49,7 @@ This repository contains SQL queries designed to analyze various aspects of the 
 ## Files
 - **matches.csv**: IPL match data from 2008 to 2024.
 - **deliveries.csv**: IPL delivery-level data from 2008 to 2024.
-- **queries.sql**: SQL queries used for data analysis and insights generation.
+- **Matches.sql and Deliveries.sql**: SQL queries used for data analysis and insights generation.
 - **README.md**: Project overview and instructions.
 
 ## Conclusion
