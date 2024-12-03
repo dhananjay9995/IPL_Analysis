@@ -36,7 +36,7 @@ These datasets have been cleaned and pre-processed using SQL and Python to ensur
 ## Setup
 1. Clone the repository or download the dataset from Kaggle.
 2. Import the datasets into a PostgreSQL database or any SQL-based system.
-3. Execute the SQL queries provided in the `Matches.sql` and `Deliveries.sql*` file to generate insights.
+3. Execute the SQL queries provided in the `Matches.sql` and `Deliveries.sql` file to generate insights.
 4. Optional: Use Python (Pandas, Matplotlib, Seaborn) to visualize the results.
 
 ## Insights
